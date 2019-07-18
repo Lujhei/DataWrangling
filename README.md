@@ -6,6 +6,7 @@
 It's suggested that Data Wrangling takes up 50-80% of a Data Analyst's working time. By presenting data in a clean format, it facillitates the subsequent exploration and analysis, collaboration with others, and allows for exchange between different tools (in this case R).
 
 This is a demonstration of some of the principles and practices. 
+
 <b>How?</b>
 
 The method employed in this repo will follow guidelines set for Tidy data:
